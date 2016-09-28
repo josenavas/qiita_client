@@ -6,7 +6,7 @@ omit =
     */__init__.py
 source = qiita_client
 branch = True
-include = */qiita_*/*
+include = */qiita_client/*
 
 [report]
 exclude_lines =
